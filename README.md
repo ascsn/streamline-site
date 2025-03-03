@@ -4,6 +4,23 @@
 
 This project is a website for the scientific collaboration STREAMLINE, created using React.
 
+## High-Level Overview
+
+STREAMLINE (SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environments) is a cutting-edge scientific collaboration aimed at revolutionizing the field of nuclear physics through the application of machine learning (ML) techniques. Our mission is to advance theoretical and computational research on the nuclear many-body problem, leveraging the power of ML to achieve unprecedented levels of predictive accuracy and understanding.
+
+### Key Objectives
+
+- Develop fast and accurate emulators for large-scale nuclear physics computations.
+- Implement smart model extrapolation techniques to enhance predictive power.
+- Learn correlations in wave functions and operators to improve theoretical models.
+- Predict nuclear dynamics, including nuclear fission and heavy-ion fusion.
+- Foster an AI-capable workforce through extensive educational and training programs.
+- Promote Diversity, Equity, Inclusion, and Belonging within the nuclear physics community.
+
+### Our Team
+
+Our collaboration brings together leading researchers in the fields of machine learning and theoretical nuclear physics. Our team is dedicated to pushing the boundaries of scientific knowledge and making a lasting impact on the field of nuclear physics.
+
 ## Getting Started
 
 ### Prerequisites
