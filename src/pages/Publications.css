@@ -1,0 +1,57 @@
+.publication-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.publication-item {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.publication-item h3 {
+  margin-bottom: 0.5rem;
+  color: #1a3d5e;
+}
+
+.authors {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.journal {
+  margin-bottom: 1rem;
+}
+
+.journal-name {
+  font-weight: 600;
+}
+
+.publication-date {
+  margin-left: 0.5rem;
+}
+
+.publication-description {
+  margin-bottom: 1rem;
+}
+
+.publication-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.publication-link {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  background-color: #f0f4f8;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.publication-link:hover {
+  background-color: #e1e8f0;
+}

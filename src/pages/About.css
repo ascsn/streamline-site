@@ -1,0 +1,18 @@
+.about-page {
+  margin-bottom: 2rem;
+}
+
+.page-header {
+  background-color: #f5f7fa;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.bg-light {
+  background-color: #f8f9fa;
+}

@@ -1,0 +1,28 @@
+.research-page {
+  margin-bottom: 2rem;
+}
+
+.research-area {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin: 2rem 0;
+}
+
+.research-content {
+  flex: 3;
+}
+
+.research-image {
+  flex: 2;
+}
+
+.research-content p {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .research-area {
+    flex-direction: column;
+  }
+}
