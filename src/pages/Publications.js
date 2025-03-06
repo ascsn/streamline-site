@@ -31,9 +31,9 @@ function Publications() {
                 achieving speed-ups of over 1000x while maintaining high accuracy.
               </p>
               <div className="publication-links">
-                <a href="#" className="publication-link">DOI</a>
-                <a href="#" className="publication-link">arXiv</a>
-                <a href="#" className="publication-link">PDF</a>
+                <a href="https://doi.org/10.1000/example-doi-2025-001" className="publication-link">DOI</a>
+                <a href="https://arxiv.org/abs/2501.00001" className="publication-link">arXiv</a>
+                <a href="/publications/papers/neural-network-emulation.pdf" className="publication-link">PDF</a>
               </div>
             </div>
             
@@ -51,9 +51,9 @@ function Publications() {
                 in nuclear structure predictions, with applications to binding energies and radii.
               </p>
               <div className="publication-links">
-                <a href="#" className="publication-link">DOI</a>
-                <a href="#" className="publication-link">arXiv</a>
-                <a href="#" className="publication-link">PDF</a>
+                <a href="https://doi.org/10.1000/example-doi-2024-002" className="publication-link">DOI</a>
+                <a href="https://arxiv.org/abs/2407.00002" className="publication-link">arXiv</a>
+                <a href="/publications/papers/uncertainty-quantification.pdf" className="publication-link">PDF</a>
               </div>
             </div>
             
@@ -71,9 +71,9 @@ function Publications() {
                 regions of known nuclei, with improved accuracy for exotic isotopes.
               </p>
               <div className="publication-links">
-                <a href="#" className="publication-link">DOI</a>
-                <a href="#" className="publication-link">arXiv</a>
-                <a href="#" className="publication-link">PDF</a>
+                <a href="https://doi.org/10.1000/example-doi-2024-003" className="publication-link">DOI</a>
+                <a href="https://arxiv.org/abs/2403.00003" className="publication-link">arXiv</a>
+                <a href="/publications/papers/mass-model-extrapolation.pdf" className="publication-link">PDF</a>
               </div>
             </div>
           </div>
@@ -95,8 +95,8 @@ function Publications() {
                 <span className="publication-date">2024</span>
               </p>
               <div className="publication-links">
-                <a href="#" className="publication-link">DOI</a>
-                <a href="#" className="publication-link">PDF</a>
+                <a href="https://doi.org/10.1000/example-conf-2024-001" className="publication-link">DOI</a>
+                <a href="/publications/proceedings/physics-informed-nn.pdf" className="publication-link">PDF</a>
               </div>
             </div>
             
@@ -110,8 +110,8 @@ function Publications() {
                 <span className="publication-date">2024</span>
               </p>
               <div className="publication-links">
-                <a href="#" className="publication-link">DOI</a>
-                <a href="#" className="publication-link">PDF</a>
+                <a href="https://doi.org/10.1000/example-conf-2024-002" className="publication-link">DOI</a>
+                <a href="/publications/proceedings/transformer-models.pdf" className="publication-link">PDF</a>
               </div>
             </div>
           </div>
